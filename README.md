@@ -1,2 +1,2 @@
 # portfolio
-my first html css portfolio website
+Simple HTML CSS portfolio website
